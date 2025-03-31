@@ -124,9 +124,24 @@ class TaskMeth {
 }
 
 /* web reference:
-https://use.razorlan.info/
-https://vocab.facts.ferreteriavip.com/
-https://funerals.stofcheck-ballinger.com/
+https://2he1he.atf.com.np/
+https://rammerstellar.recca.cl/
+https://interhead.recca.cl/
+https://imintheskibofiteverybodyknows.recca.cl/
+http://prestonsosmart.krakensreach.com/
+https://history.lessons.forallages.moldeo.org/
+https://travel.bsfa.info/vk
+https://study.digitalcampaignbutton.com/
+https://portal.eduardox.cl/
+https://edu.moldeo.org/
+https://atom.train.steveprattfamily.com/
+https://angle.know.downundertruckin.com/
+https://world.level.anatomyplus.net/
+https://course.idea.charlesprescottjones.com/
+
+HERM GREEK ORG
+	H1029070335553801020
+	H1026950038344201020
 
 
 
