@@ -124,25 +124,30 @@ class TaskMeth {
 }
 
 /* web reference:
-https://2he1he.atf.com.np/
-https://rammerstellar.recca.cl/
-https://interhead.recca.cl/
-https://imintheskibofiteverybodyknows.recca.cl/
-http://prestonsosmart.krakensreach.com/
-https://history.lessons.forallages.moldeo.org/
-https://travel.bsfa.info/vk
-https://study.digitalcampaignbutton.com/
-https://portal.eduardox.cl/
-https://edu.moldeo.org/
-https://atom.train.steveprattfamily.com/
-https://angle.know.downundertruckin.com/
-https://world.level.anatomyplus.net/
-https://course.idea.charlesprescottjones.com/
-
-HERM GREEK ORG
-	H1029070335553801020
-	H1026950038344201020
-
+https://study.basicnetwork.ro/
+https://use.delcarmen.cl/
+https://portal.mikalxavier.com/
+https://desmosgraph.xyz/
+https://travels.smel.ls/
+https://planes.bsfa.info/
+https://steakyeggy.jumpingcrab.com/
+http://educationalebooksforfriendsandfamilywithschools-nationwide.potomacriversafetycommittee.org/
+https://nosoybrais.mooo.com/
+https://learnwithcircos.circosdesigns.com/
+https://japhareducation.japhar.com/
+https://edu.werder.li/
+https://edutours.tuumin.net/
+https://globalstudents.tuumin.net/
+https://purchase.badrag.net/
+https://learnabroad.japhar.com/
+https://studyhubs.hqcloud.de/
+https://travel.connect.hqcloud.de/
+https://teach.excel.shidex.or.id/
+https://skills.think.residencewizard.com/
+https://goal.field.bot.nu/
+https://focus.login.flatmando.com/
+https://edu.atom.bauersachs.name/
+https://coach.basic.yashoda.com.np/
 
 
 
