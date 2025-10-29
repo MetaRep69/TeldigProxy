@@ -124,30 +124,15 @@ class TaskMeth {
 }
 
 /* web reference:
-https://study.basicnetwork.ro/
-https://use.delcarmen.cl/
-https://portal.mikalxavier.com/
-https://desmosgraph.xyz/
-https://travels.smel.ls/
-https://planes.bsfa.info/
-https://steakyeggy.jumpingcrab.com/
-http://educationalebooksforfriendsandfamilywithschools-nationwide.potomacriversafetycommittee.org/
-https://nosoybrais.mooo.com/
-https://learnwithcircos.circosdesigns.com/
-https://japhareducation.japhar.com/
-https://edu.werder.li/
-https://edutours.tuumin.net/
-https://globalstudents.tuumin.net/
-https://purchase.badrag.net/
-https://learnabroad.japhar.com/
-https://studyhubs.hqcloud.de/
-https://travel.connect.hqcloud.de/
-https://teach.excel.shidex.or.id/
-https://skills.think.residencewizard.com/
-https://goal.field.bot.nu/
-https://focus.login.flatmando.com/
-https://edu.atom.bauersachs.name/
-https://coach.basic.yashoda.com.np/
+https://church.minds.hausler.ee/
+https://clever.piano.bigideas.hk/
+https://skill.vocab.lekovic.ca/
+https://linen.freeddns.org/
+https://owens-engineering-info.aperture.cl/
+https://scienceclasswork.webredirect.org/
+https://scientist.webredirect.org/
+
+
 
 
 
